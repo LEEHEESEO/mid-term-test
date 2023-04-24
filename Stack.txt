@@ -1,3 +1,4 @@
+// 자료구조 존넨쉬름
 // this code is made to implemet Stack. 
 // Stack 
 #define _CRT_SECURE_NO_WARNINGS
