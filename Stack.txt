@@ -1,5 +1,6 @@
 // this code is made to implemet Stack. 
 // Stack 
+// I did my best for this subject, but screwed up all for oversleeping
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
