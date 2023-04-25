@@ -36,3 +36,7 @@ I will do what I must
 ***you were the chosen one!***
 
 ~~I hate you!!~~
+
+>I love you so much
+>>Art you sure? 
+>>Not really
