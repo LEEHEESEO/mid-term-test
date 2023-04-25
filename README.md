@@ -6,9 +6,13 @@ hohohoho
 hehehehe
 
 this is practice of making lines
+
 line 1
+
 ---
+
 line 2
+
 ***
 
 odering practice
@@ -19,12 +23,16 @@ odering practice
 2. number 5
 
 I will do what I must 
+
 *Hello there
-+Anakin's gone 
--I killed him
-+Good bye. Darth. 
+  +Anakin's gone 
+  -I killed him
+  +Good bye. Darth. 
 
 **you were the chosen one!**
+
 *you were the chosen one!*
+
 ***you were the chosen one!***
+
 ~~I hate you!!~~
