@@ -32,13 +32,13 @@ I will do what I must
   
   +Good bye. Darth. 
 
-**you were the chosen one!**
+**you were the chosen one!
 
-*you were the chosen one!*
+*you were the chosen one!
 
-***you were the chosen one!***
+***you were the chosen one!
 
-~~I hate you!!~~
+~~I hate you!!
 
 >I love you so much
 >>Art you sure? 
