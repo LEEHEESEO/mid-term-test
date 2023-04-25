@@ -12,3 +12,5 @@ int main()
     printf("%d", c);
     return 0;
 }
+
+// Tlqkf dlrj djswpRkwl godiehldlaifhsdjogbs;dfkjvb
